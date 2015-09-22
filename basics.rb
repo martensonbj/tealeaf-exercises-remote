@@ -1,4 +1,4 @@
-#EXECISES FROM CHAPTER: BASICS
+#EXERCISES FROM CHAPTER: BASICS
 
 #1. Add two strings together that, when concatenated, return your first and last name as your full name in one string.
 first = "Brenna"
