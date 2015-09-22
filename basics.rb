@@ -1,4 +1,4 @@
-#Exercises from chapter: Basics
+#EXECISES FROM CHAPTER: BASICS
 
 #1. Add two strings together that, when concatenated, return your first and last name as your full name in one string.
 first = "Brenna"
@@ -64,5 +64,3 @@ puts z * z
 
 #7. What does the following error message tell you?
 #   There is a line of code with either the wrong type closing bracket or a bracket is missing.
-
- 
